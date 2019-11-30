@@ -9,7 +9,6 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/logo.jpg' }]
     ],
-    base:'/blog/',
     themeConfig: {
         lastUpdated: '最近更新时间',
         repo: 'swwnull/blog',
