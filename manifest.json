@@ -1,0 +1,15 @@
+{
+  "name": "暗行夜使",
+  "short_name": "暗夜",
+  "description": "暗行夜使的学习记录",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "start_url": "index.html",
+  "icons": [
+    {
+    "src": "/head.png",
+    "type": "image/png",
+    "sizes": "497x489"
+  }
+  ]
+}
